@@ -5,6 +5,8 @@ Pandas is a super powerful, fast, flexible and easy to use open source data anal
 
 This data set is actually quite famous and it's primarily used for training machine learning models and essentially training of machine learning models, especially natural language processing models is beyond the scope of this project. What we have here is different reviews from different customers on amazon Echo product and different ratings. The customers gave the product ratings range between one and five. Five star is good rating. However, if the customer gave one star, that means it's a very poor rating here.
 
+Link to dataset: https://www.kaggle.com/datasets/haitaox503/amazonreviewscsv
+
 ### Below is the summary of the tasks performed in this project:
 - __Task 1:__ LOAD TEXT DATA AND PERFORM BASIC DATA EXPLORATION
 - __Task 2:__ UPPER AND LOWER OPERATIONS
